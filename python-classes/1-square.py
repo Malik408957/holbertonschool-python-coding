@@ -2,6 +2,7 @@
 """
 This module defines a Square class with size validation.
 """
+
 class Square:
     """Square class that defines a square with size validation"""
     def _init_(self, size=0):
